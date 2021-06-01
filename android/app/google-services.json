@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "850032575513",
+    "project_id": "shopping-dog-app",
+    "storage_bucket": "shopping-dog-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850032575513:android:619370c9a4b51dd2115688",
+        "android_client_info": {
+          "package_name": "com.shoppingdog.userapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850032575513-ig6a16qes651qfcdrime83i9u9uf9qp7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shoppingdog.userapp",
+            "certificate_hash": "86520a416389df058f23d292a55325f1b2310173"
+          }
+        },
+        {
+          "client_id": "850032575513-kjj7v80glq39hqrd0tkcbbnb90kggt9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA25WRPtOTwn9pzKeRBQDNvs_cTG_eUMEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850032575513-kjj7v80glq39hqrd0tkcbbnb90kggt9h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
