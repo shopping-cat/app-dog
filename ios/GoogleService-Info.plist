@@ -3,23 +3,23 @@
 <plist version="1.0">
 	<dict>
 		<key>CLIENT_ID</key>
-		<string>1018835944443-nhh57fi71hquap6f441o6bvd1oemtm14.apps.googleusercontent.com</string>
+		<string>850032575513-nbtm0dnuk3ln307r8dgnh05r2vb5q4sq.apps.googleusercontent.com</string>
 		<key>REVERSED_CLIENT_ID</key>
-		<string>com.googleusercontent.apps.1018835944443-nhh57fi71hquap6f441o6bvd1oemtm14</string>
+		<string>com.googleusercontent.apps.850032575513-nbtm0dnuk3ln307r8dgnh05r2vb5q4sq</string>
 		<key>ANDROID_CLIENT_ID</key>
-		<string>1018835944443-5sd0mjempir0tbc2l2rcqqeihm5hdts0.apps.googleusercontent.com</string>
+		<string>850032575513-ig6a16qes651qfcdrime83i9u9uf9qp7.apps.googleusercontent.com</string>
 		<key>API_KEY</key>
-		<string>AIzaSyDgMNbUpi5R1xfsY2NmfzXmKLgQWy6QspE</string>
+		<string>AIzaSyBYc9J7qtvhNF2e2-llxf-90WIvAQIy8jM</string>
 		<key>GCM_SENDER_ID</key>
-		<string>1018835944443</string>
+		<string>850032575513</string>
 		<key>PLIST_VERSION</key>
 		<string>1</string>
 		<key>BUNDLE_ID</key>
 		<string>com.shoppingdog.userapp</string>
 		<key>PROJECT_ID</key>
-		<string>shopping-cat-app</string>
+		<string>shopping-dog-app</string>
 		<key>STORAGE_BUCKET</key>
-		<string>shopping-cat-app.appspot.com</string>
+		<string>shopping-dog-app.appspot.com</string>
 		<key>IS_ADS_ENABLED</key>
 		<false></false>
 		<key>IS_ANALYTICS_ENABLED</key>
@@ -31,6 +31,6 @@
 		<key>IS_SIGNIN_ENABLED</key>
 		<true></true>
 		<key>GOOGLE_APP_ID</key>
-		<string>1:1018835944443:ios:e788803a19b6f56c42c15e</string>
+		<string>1:850032575513:ios:be5d278677404351115688</string>
 	</dict>
 </plist>

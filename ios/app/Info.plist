@@ -5,7 +5,7 @@
 		<key>CFBundleDevelopmentRegion</key>
 		<string>ko_KR</string>
 		<key>CFBundleDisplayName</key>
-		<string>쇼핑냥이</string>
+		<string>쇼핑댕이</string>
 		<key>CFBundleExecutable</key>
 		<string>$(EXECUTABLE_NAME)</string>
 		<key>CFBundleIdentifier</key>
@@ -28,7 +28,7 @@
 				<key>CFBundleURLSchemes</key>
 				<array>
 					<string>shoppingdog</string>
-					<string>fb852942252107346</string>
+					<string>fb326923075658859</string>
 					<string>kakao9ffa2e4cf770aabb1a5f659e59f9b01f</string>
 				</array>
 			</dict>
@@ -38,9 +38,9 @@
 		<key>CodePushDeploymentKey</key>
 		<string>azfM6lYNfv8n3ri8MpKiWhPg4AN1AH4P2cWdh</string>
 		<key>FacebookAppID</key>
-		<string>852942252107346</string>
+		<string>326923075658859</string>
 		<key>FacebookDisplayName</key>
-		<string>쇼핑냥이</string>
+		<string>쇼핑댕이</string>
 		<key>KAKAO_APP_KEY</key>
 		<string>9ffa2e4cf770aabb1a5f659e59f9b01f</string>
 		<key>LSApplicationQueriesSchemes</key>
@@ -112,9 +112,9 @@
 			<key>CFBundleVersion</key>
 			<string>1</string>
 			<key>FacebookAppID</key>
-			<string>852942252107346</string>
+			<string>326923075658859</string>
 			<key>FacebookDisplayName</key>
-			<string>쇼핑냥이</string>
+			<string>쇼핑댕이</string>
 			<key>KAKAO_APP_KEY</key>
 			<string>9ffa2e4cf770aabb1a5f659e59f9b01f</string>
 			<key>LSApplicationQueriesSchemes</key>
